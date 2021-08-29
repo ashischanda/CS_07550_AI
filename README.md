@@ -1,16 +1,9 @@
-# CS 07550 AI
+# Concepts In Artificial Intelligence (graduate and undergraduate course)
 
 ![Test Image 1](https://github.com/ashischanda/CS_07550_AI/blob/main/00_images/logo.png)
 
-
-## Concepts In Artificial Intelligence (graduate and undergraduate course)
-
 **Class session:** Friday (3:30 pm until 6:15 pm), 
-**Credits:** 	     3, 
-**Classroom:**	   121 Robinson Hall, 
-**CRN:**		       41795, 
-**Section:**       01
-
+**Classroom:**	   121 Robinson Hall
 
 **Instructor:**   Ashis K Chanda, 
 **Office hour:**	Thursday (4-5 PM)
@@ -53,6 +46,3 @@ https://tonyfischetti.shinyapps.io/InteractiveLogisticRegression/
 https://playground.tensorflow.org/
  * Matrix (mathematics) 
 https://en.wikipedia.org/wiki/Matrix_(mathematics)
-
-
-
