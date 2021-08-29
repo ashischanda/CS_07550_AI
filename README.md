@@ -1,4 +1,5 @@
-# Concepts In Artificial Intelligence (graduate and undergraduate course)
+# Concepts In Artificial Intelligence 
+### (undergraduate and graduate course)
 
 ![Test Image 1](https://github.com/ashischanda/CS_07550_AI/blob/main/00_images/logo.png)
 
