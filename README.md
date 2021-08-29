@@ -1,4 +1,8 @@
 # CS 07550 AI
+
+![Test Image 1](https://github.com/ashischanda/MedCV/blob/master/images/cover.png)
+
+
 ## Concepts In Artificial Intelligence (graduate and undergraduate course)
 
 **Class session:** Friday (3:30 pm until 6:15 pm), 
