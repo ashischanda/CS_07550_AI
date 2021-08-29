@@ -31,13 +31,13 @@ Discrete mathematics, probability, computer programming, algorithm and data stru
  * Midterm exam (25%): 2 hours (you can bring a single handwritten note)
  * Final Exam (25%):  2:30 hours (you can bring your previous midterm note with another additional single page note)
 
-###### Policies:
+**Policies:**
  * Late Work: 10% late submission penalty if submitted within one day of deadline. Beyond that, late submission is not entertained.
  * An extra credit assignment (could also be a quiz or an exam) may be given, but the exact date of the extra credit is not decided yet.
  * If you cannot attend the midterm exam due to personal reasons, please let me know before the exam.
  * You must attend the final exam at the prescribed time in order to pass this course.
 
-###### Other pointers:
+**Other pointers:**
  * How to Present a Paper in Theoretical Computer Science
 https://basics.sjtu.edu.cn/links/presentation.pdf 
  * Interactive visualization of non-linear logistic regression decision boundaries
