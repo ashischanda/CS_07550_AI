@@ -1,6 +1,6 @@
 # CS 07550 AI
 
-![Test Image 1](https://github.com/ashischanda/MedCV/blob/master/images/cover.png)
+![Test Image 1](https://github.com/ashischanda/CS_07550_AI/blob/main/00_images/logo.png)
 
 
 ## Concepts In Artificial Intelligence (graduate and undergraduate course)
