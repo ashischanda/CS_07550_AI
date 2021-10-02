@@ -1,1 +1,1 @@
-Some assignments are collected from the instructor help site of the book, "Artificial Intelligence: A modern approach" by S. Russell and P. Norvig; or, University of California, Berkeley CS 188 course.
+Some assignments are collected from the official instructor help site of the "Artificial Intelligence: A modern approach" book by S. Russell and P. Norvig; and from CS 188 course of the University of California, Berkeley.
