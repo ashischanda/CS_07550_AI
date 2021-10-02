@@ -1,0 +1,32 @@
+% Your program goes here
+parent(pam,bob).
+parent(tom,bob).
+parent(tom,liz).     % DON'T GIVE EXTRA SPACE
+parent(bob,ann).     % DON'T FORGET TO GIVE DOT AT THE END OF LINE
+parent(bob, pat).
+parent(joe,jim).
+parent(pat,jim).
+male(tom).           % WRITE ALL SIMILAR TYPES OF RELATION TOGETHER
+male(bob).
+male(joe).
+male(jim).
+female(pam).
+female(liz).
+female(ann).
+female(pat).
+
+
+
+mother(X,Y):-parent(X,Y),female(X).
+father(X,Y):-parent(X,Y),male(X).
+
+grandfather(X,Z):-parent(X,Y),parent(Y,Z).
+
+ancestor(X,Z):-parent(X,Z).
+ancestor(X,Z):-parent(X,Y),ancestor(Y,Z).
+
+
+/** <examples> Your example queries go here, e.g.
+?- mother(X,jim).
+?- grandfather(X,pat). 
+*/

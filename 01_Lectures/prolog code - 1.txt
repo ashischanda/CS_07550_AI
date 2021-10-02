@@ -1,0 +1,13 @@
+% Your program goes here
+cat(tom).
+cat(kitty).
+boy(jack).
+girl(anna).
+loves_to_cat( jack, tom).
+loves_to_cat( anna, kitty).  
+
+/** <examples> Your example queries go here, e.g.
+?- cat(tom).
+?- cat(X).
+?- loves_to_cat( X, kitty). /% Here, X is a variable
+*/
