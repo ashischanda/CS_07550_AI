@@ -9,7 +9,7 @@
 **Classroom:**	   121 Robinson Hall,
 **Office hour:**	Thursday (4-5 PM)
 
-**Description:**
+**Course Description:**
 
 This course introduces concepts, approaches and techniques of artificial intelligence (AI), and focuses on materials that are fundamental and have a broad scope of applications. Topics include Problem Solving, Heuristic search, Knowledge and Reasoning, Logical Agents, First-Order Logic and Inference, Uncertain Knowledge and Reasoning, puzzle-solving, game-playing, natural language processing, and expert systems. Additional topics include Machine Learning, Neural Computation, and Evolutionary Computation.
 
@@ -66,6 +66,7 @@ Readings:
  https://tonyfischetti.shinyapps.io/InteractiveLogisticRegression/
  * Neural network playground (animation)
  https://playground.tensorflow.org/
+
 
 **Note:**
 
