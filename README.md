@@ -2,10 +2,11 @@
 
 ![Test Image 1](https://github.com/ashischanda/CS_07550_AI/blob/main/00_images/logo.png)
 
-**Class session:** Friday (3:30 pm until 6:15 pm), 
-**Classroom:**	   121 Robinson Hall
+**Instructor:**   Mr. Ashis K Chanda, 
 
-**Instructor:**   Ashis K Chanda, 
+
+**Class session:** Friday (3:30 pm until 6:15 pm), 
+**Classroom:**	   121 Robinson Hall,
 **Office hour:**	Thursday (4-5 PM)
 
 **Description:**
@@ -38,11 +39,32 @@ Discrete mathematics, probability, computer programming, algorithm and data stru
  * You must attend the final exam at the prescribed time in order to pass this course.
 
 **Other pointers:**
- * How to Present a Paper in Theoretical Computer Science
-https://basics.sjtu.edu.cn/links/presentation.pdf 
- * Interactive visualization of non-linear logistic regression decision boundaries
-https://tonyfischetti.shinyapps.io/InteractiveLogisticRegression/
- * Neural network playground (animation)
-https://playground.tensorflow.org/
+Software:
+
+ * Online python coding https://www.online-python.com/ (Links to an external site.)
+ * Google Colab for Python 
+ * Spyder (simple and basic IDE) https://www.spyder-ide.org/ (Links to an external site.)
+ * Anaconda (advance IDE) https://www.anaconda.com/products/individual-d (Links to an external site.) 
+ * Pytorch (advance IDE) https://pytorch.org/ (Links to an external site.) 
+
+Python tutorial:
+
+ * https://www.tutorialspoint.com/python/index.htm (Links to an external site.)
+ * https://www.w3schools.com/python/ (Links to an external site.)
+
+Readings:
  * Matrix (mathematics) 
-https://en.wikipedia.org/wiki/Matrix_(mathematics)
+ https://en.wikipedia.org/wiki/Matrix_(mathematics) (Links to an external site.)
+ * Probability: 
+ https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/basic-probability.pdf (Links to an external site.)
+ * A* star search algorithm:
+ https://en.wikipedia.org/wiki/A*_search_algorithm
+ * How to Present a Paper in Theoretical Computer Science
+ https://basics.sjtu.edu.cn/links/presentation.pdf 
+ * Interactive visualization of non-linear logistic regression decision boundaries
+ https://tonyfischetti.shinyapps.io/InteractiveLogisticRegression/
+ * Neural network playground (animation)
+ https://playground.tensorflow.org/
+
+**Note:**
+Some parts of the course content are collected from the official instructor help site of the "Artificial Intelligence: A modern approach" book by S. Russell and P. Norvig; and from the CS 188 course of the University of California, Berkeley.
