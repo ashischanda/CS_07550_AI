@@ -2,7 +2,7 @@
 
 ![Test Image 1](https://github.com/ashischanda/CS_07550_AI/blob/main/00_images/logo.png)
 
-**Instructor:**   Mr. Ashis K Chanda, 
+**Instructor:**   Mr. Ashis K Chanda 
 
 
 **Class session:** Friday (3:30 pm until 6:15 pm), 
@@ -39,6 +39,7 @@ Discrete mathematics, probability, computer programming, algorithm and data stru
  * You must attend the final exam at the prescribed time in order to pass this course.
 
 **Other pointers:**
+
 Software:
 
  * Online python coding https://www.online-python.com/ (Links to an external site.)
@@ -67,4 +68,5 @@ Readings:
  https://playground.tensorflow.org/
 
 **Note:**
+
 Some parts of the course content are collected from the official instructor help site of the "Artificial Intelligence: A modern approach" book by S. Russell and P. Norvig; and from the CS 188 course of the University of California, Berkeley.
