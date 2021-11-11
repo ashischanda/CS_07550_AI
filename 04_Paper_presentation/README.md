@@ -1,1 +1,0 @@
-There is a list of papers for student to check and select for their class presentation. The topics of the papers are related to natural language processing, computer vision, reinforcement learing, neural network, deep neural network and so on.
