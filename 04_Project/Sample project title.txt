@@ -1,0 +1,12 @@
+# Sample project titles 
+
+* Identification of different types of glass based on chemical components
+* Video-based Neural Style Transfer
+* Recommendations of News Article following Clustering Models
+* Stock price prediction from time series data
+* Doing Simple Arithmetic using Handwritten Digit Detector
+* Developing a chat bot system
+* Exploration of Employee Future Prediction
+* Facial Mask Detection using Machine Learning
+* Dogecoin price analysis and prediction in python
+* Language detection in a text file
