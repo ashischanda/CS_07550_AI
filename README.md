@@ -22,7 +22,7 @@ This course introduces concepts, approaches and techniques of artificial intelli
  * S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 4th edition, Prentice Hall.
 
 **Prerequisite:**
-Discrete mathematics, probability, computer programming, algorithm and data structures.
+* Discrete mathematics, probability, computer programming, algorithm and data structures.
 
 
 **Grading Scheme:**
